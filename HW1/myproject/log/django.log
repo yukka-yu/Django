@@ -1,0 +1,344 @@
+INFO 2024-02-02 20:02:01,733 autoreload 225813 139884650287168 Watching for file changes with StatReloader
+INFO 2024-02-02 20:02:08,795 views 225813 139884534691520 Head_tail Page accessed with result head
+INFO 2024-02-02 20:02:08,797 basehttp 225813 139884534691520 "GET /games/head_tail/ HTTP/1.1" 200 4
+INFO 2024-02-02 20:02:15,718 views 225813 139884534691520 Head_tail Page accessed with result head
+INFO 2024-02-02 20:02:15,719 basehttp 225813 139884534691520 "GET /games/head_tail/ HTTP/1.1" 200 4
+INFO 2024-02-02 20:02:16,668 views 225813 139884534691520 Head_tail Page accessed with result tail
+INFO 2024-02-02 20:02:16,670 basehttp 225813 139884534691520 "GET /games/head_tail/ HTTP/1.1" 200 4
+INFO 2024-02-02 20:02:26,859 views 225813 139884534691520 Dice page accessed with result 3
+INFO 2024-02-02 20:02:26,860 basehttp 225813 139884534691520 "GET /games/dice/ HTTP/1.1" 200 1
+INFO 2024-02-02 20:24:44,793 autoreload 225813 139884650287168 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-02 20:24:45,108 autoreload 226552 140233845882944 Watching for file changes with StatReloader
+INFO 2024-02-02 20:24:47,309 autoreload 226552 140233845882944 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-02 20:24:47,624 autoreload 226574 140625200025664 Watching for file changes with StatReloader
+INFO 2024-02-02 20:24:53,751 autoreload 226574 140625200025664 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-02 20:24:53,992 autoreload 226598 140050812751936 Watching for file changes with StatReloader
+INFO 2024-02-02 20:25:02,125 autoreload 226598 140050812751936 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-02 20:25:02,392 autoreload 226630 140414707212352 Watching for file changes with StatReloader
+INFO 2024-02-02 20:25:09,593 autoreload 226630 140414707212352 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-02 20:25:09,866 autoreload 226676 139701534892096 Watching for file changes with StatReloader
+INFO 2024-02-02 21:04:53,540 autoreload 228036 140663753560128 Watching for file changes with StatReloader
+INFO 2024-02-02 21:05:00,621 views 228036 140663709955776 Dice page accessed with result 2
+INFO 2024-02-02 21:05:00,623 basehttp 228036 140663709955776 "GET /games/dice/ HTTP/1.1" 200 1
+INFO 2024-02-02 21:05:08,375 basehttp 228036 140663709955776 "GET / HTTP/1.1" 200 13
+WARNING 2024-02-02 21:05:20,186 log 228036 140663709955776 Not Found: /about_me
+WARNING 2024-02-02 21:05:20,187 basehttp 228036 140663709955776 "GET /about_me HTTP/1.1" 404 2371
+INFO 2024-02-02 21:06:15,745 autoreload 228036 140663753560128 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-02 21:06:16,007 autoreload 228194 140528922722368 Watching for file changes with StatReloader
+INFO 2024-02-02 21:06:24,268 autoreload 228194 140528922722368 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-02 21:06:24,518 autoreload 228238 140484716441664 Watching for file changes with StatReloader
+INFO 2024-02-02 21:06:29,612 autoreload 228238 140484716441664 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-02 21:06:29,863 autoreload 228265 140423263068224 Watching for file changes with StatReloader
+INFO 2024-02-02 21:06:34,963 autoreload 228265 140423263068224 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-02 21:06:35,238 autoreload 228288 139816169136192 Watching for file changes with StatReloader
+INFO 2024-02-02 21:06:46,393 autoreload 228288 139816169136192 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-02 21:06:46,637 autoreload 228316 139846141538368 Watching for file changes with StatReloader
+INFO 2024-02-02 21:08:02,240 autoreload 228424 140558802866240 Watching for file changes with StatReloader
+WARNING 2024-02-02 21:08:05,430 log 228424 140558759167680 Not Found: /about_me
+WARNING 2024-02-02 21:08:05,431 basehttp 228424 140558759167680 "GET /about_me HTTP/1.1" 404 2371
+WARNING 2024-02-02 21:08:06,425 log 228424 140558759167680 Not Found: /about_me
+WARNING 2024-02-02 21:08:06,426 basehttp 228424 140558759167680 "GET /about_me HTTP/1.1" 404 2371
+WARNING 2024-02-02 21:08:21,186 log 228424 140558759167680 Not Found: /about_me
+WARNING 2024-02-02 21:08:21,187 basehttp 228424 140558759167680 "GET /about_me HTTP/1.1" 404 2371
+INFO 2024-02-02 21:09:49,699 autoreload 228424 140558802866240 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:09:49,946 autoreload 228631 139967074402368 Watching for file changes with StatReloader
+INFO 2024-02-02 21:09:55,155 autoreload 228631 139967074402368 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:09:55,439 autoreload 228667 139929024069696 Watching for file changes with StatReloader
+INFO 2024-02-02 21:09:56,622 autoreload 228667 139929024069696 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:09:56,958 autoreload 228682 140592413384768 Watching for file changes with StatReloader
+INFO 2024-02-02 21:10:03,074 autoreload 228682 140592413384768 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:10:03,354 autoreload 228750 139632158974016 Watching for file changes with StatReloader
+INFO 2024-02-02 21:10:06,446 autoreload 228750 139632158974016 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:10:06,712 autoreload 228770 139927466176576 Watching for file changes with StatReloader
+INFO 2024-02-02 21:10:09,803 autoreload 228770 139927466176576 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:10:10,081 autoreload 228802 139627785916480 Watching for file changes with StatReloader
+INFO 2024-02-02 21:10:25,340 autoreload 228802 139627785916480 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:10:25,607 autoreload 228888 140589591461952 Watching for file changes with StatReloader
+INFO 2024-02-02 21:10:30,811 autoreload 228888 140589591461952 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:10:31,055 autoreload 228967 139674465763392 Watching for file changes with StatReloader
+INFO 2024-02-02 21:10:33,227 autoreload 228967 139674465763392 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:10:33,490 autoreload 229004 140078912921664 Watching for file changes with StatReloader
+INFO 2024-02-02 21:10:43,429 basehttp 229004 140078869124800 "GET /about_me HTTP/1.1" 301 0
+INFO 2024-02-02 21:10:43,433 basehttp 229004 140078860732096 "GET /about_me/ HTTP/1.1" 200 13
+INFO 2024-02-02 21:11:07,038 autoreload 229004 140078912921664 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:11:07,304 autoreload 229193 139715075829824 Watching for file changes with StatReloader
+INFO 2024-02-02 21:11:09,394 autoreload 229193 139715075829824 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:11:09,657 autoreload 229214 139861140574272 Watching for file changes with StatReloader
+INFO 2024-02-02 21:11:14,877 autoreload 229214 139861140574272 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:11:15,154 autoreload 229253 140370889650240 Watching for file changes with StatReloader
+INFO 2024-02-02 21:11:16,327 basehttp 229253 140370845931200 "GET /about_me/ HTTP/1.1" 200 228
+INFO 2024-02-02 21:11:38,611 autoreload 229253 140370889650240 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-02 21:11:38,869 autoreload 229368 139733380087872 Watching for file changes with StatReloader
+INFO 2024-02-02 21:11:44,980 autoreload 229368 139733380087872 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-02 21:11:45,253 autoreload 229415 140300156497984 Watching for file changes with StatReloader
+INFO 2024-02-02 21:11:48,029 basehttp 229415 140300112877248 "GET /about_me/ HTTP/1.1" 200 227
+INFO 2024-02-02 21:12:29,942 autoreload 229415 140300156497984 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:12:30,210 autoreload 229577 140688726245440 Watching for file changes with StatReloader
+INFO 2024-02-02 21:12:41,489 autoreload 229577 140688726245440 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:12:41,756 autoreload 229663 140497392197696 Watching for file changes with StatReloader
+INFO 2024-02-02 21:12:42,912 autoreload 229663 140497392197696 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:12:43,298 autoreload 229791 140222337769536 Watching for file changes with StatReloader
+INFO 2024-02-02 21:12:59,564 autoreload 229791 140222337769536 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:12:59,834 autoreload 229872 140436271853632 Watching for file changes with StatReloader
+INFO 2024-02-02 21:13:00,883 autoreload 229872 140436271853632 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:13:01,150 autoreload 229887 140035834458176 Watching for file changes with StatReloader
+INFO 2024-02-02 21:13:04,229 autoreload 229887 140035834458176 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:13:04,470 autoreload 229909 140124942389312 Watching for file changes with StatReloader
+INFO 2024-02-02 21:13:16,632 autoreload 229909 140124942389312 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:13:16,890 autoreload 229967 140603635429440 Watching for file changes with StatReloader
+INFO 2024-02-02 21:13:19,970 autoreload 229967 140603635429440 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:13:20,213 autoreload 230008 140604189425728 Watching for file changes with StatReloader
+INFO 2024-02-02 21:13:29,352 autoreload 230008 140604189425728 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:13:29,614 autoreload 230071 140072105549888 Watching for file changes with StatReloader
+INFO 2024-02-02 21:13:34,710 autoreload 230071 140072105549888 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:13:34,970 autoreload 230107 140041847681088 Watching for file changes with StatReloader
+INFO 2024-02-02 21:13:43,107 autoreload 230107 140041847681088 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:13:43,376 autoreload 230180 140210134933568 Watching for file changes with StatReloader
+INFO 2024-02-02 21:13:48,466 autoreload 230180 140210134933568 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:13:48,725 autoreload 230206 140368922763328 Watching for file changes with StatReloader
+INFO 2024-02-02 21:13:50,909 autoreload 230206 140368922763328 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-02 21:13:51,189 autoreload 230234 140132404826176 Watching for file changes with StatReloader
+INFO 2024-02-02 21:13:52,697 basehttp 230234 140132361180864 "GET /about_me/ HTTP/1.1" 200 227
+INFO 2024-02-02 21:14:04,418 basehttp 230234 140132361180864 "GET /main_page/ HTTP/1.1" 200 228
+INFO 2024-02-02 21:16:25,418 basehttp 230234 140132361180864 "GET /main_page/ HTTP/1.1" 200 228
+INFO 2024-02-02 21:16:38,076 basehttp 230234 140132361180864 "GET /about_me/ HTTP/1.1" 200 275
+WARNING 2024-02-02 21:16:38,100 log 230234 140132361180864 Not Found: /about_me/img/Sasha-07-04-23.jpg
+WARNING 2024-02-02 21:16:38,101 basehttp 230234 140132361180864 "GET /about_me/img/Sasha-07-04-23.jpg HTTP/1.1" 404 2788
+INFO 2024-02-02 21:16:40,351 basehttp 230234 140132361180864 "GET /about_me/ HTTP/1.1" 200 275
+WARNING 2024-02-02 21:16:40,391 log 230234 140132361180864 Not Found: /about_me/img/Sasha-07-04-23.jpg
+WARNING 2024-02-02 21:16:40,392 basehttp 230234 140132361180864 "GET /about_me/img/Sasha-07-04-23.jpg HTTP/1.1" 404 2788
+INFO 2024-02-02 21:35:07,057 basehttp 230234 140132361180864 "GET /about_me/ HTTP/1.1" 200 275
+WARNING 2024-02-02 21:35:07,083 log 230234 140132361180864 Not Found: /about_me/img/Sasha-07-04-23.jpg
+WARNING 2024-02-02 21:35:07,084 basehttp 230234 140132361180864 "GET /about_me/img/Sasha-07-04-23.jpg HTTP/1.1" 404 2788
+INFO 2024-02-02 21:35:08,673 basehttp 230234 140132361180864 "GET /about_me/ HTTP/1.1" 200 275
+WARNING 2024-02-02 21:35:08,711 log 230234 140132361180864 Not Found: /about_me/img/Sasha-07-04-23.jpg
+WARNING 2024-02-02 21:35:08,712 basehttp 230234 140132361180864 "GET /about_me/img/Sasha-07-04-23.jpg HTTP/1.1" 404 2788
+INFO 2024-02-02 21:36:45,253 basehttp 230234 140132361180864 "GET /about_me/ HTTP/1.1" 200 275
+WARNING 2024-02-02 21:36:45,280 log 230234 140132361180864 Not Found: /about_me/img/Sasha-07-04-23.jpg
+WARNING 2024-02-02 21:36:45,287 basehttp 230234 140132361180864 "GET /about_me/img/Sasha-07-04-23.jpg HTTP/1.1" 404 2788
+INFO 2024-02-02 21:36:46,288 basehttp 230234 140132361180864 "GET /about_me/ HTTP/1.1" 200 275
+WARNING 2024-02-02 21:36:46,324 log 230234 140132361180864 Not Found: /about_me/img/Sasha-07-04-23.jpg
+WARNING 2024-02-02 21:36:46,325 basehttp 230234 140132361180864 "GET /about_me/img/Sasha-07-04-23.jpg HTTP/1.1" 404 2788
+INFO 2024-02-02 21:37:55,502 basehttp 230234 140132361180864 "GET /about_me/ HTTP/1.1" 200 275
+WARNING 2024-02-02 21:37:55,527 log 230234 140132361180864 Not Found: /about_me/img/Sasha-07-04-23.jpg
+WARNING 2024-02-02 21:37:55,528 basehttp 230234 140132361180864 "GET /about_me/img/Sasha-07-04-23.jpg HTTP/1.1" 404 2788
+INFO 2024-02-02 21:39:45,281 basehttp 230234 140132361180864 "GET /about_me/ HTTP/1.1" 200 275
+WARNING 2024-02-02 21:39:45,309 log 230234 140132361180864 Not Found: /about_me/img/Sasha-07-04-23.jpg
+WARNING 2024-02-02 21:39:45,309 basehttp 230234 140132361180864 "GET /about_me/img/Sasha-07-04-23.jpg HTTP/1.1" 404 2788
+INFO 2024-02-03 09:59:32,698 autoreload 237248 140124058079296 Watching for file changes with StatReloader
+INFO 2024-02-03 09:59:40,731 basehttp 237248 140124014388928 "GET /about_me/ HTTP/1.1" 200 290
+INFO 2024-02-03 09:59:40,759 basehttp 237248 140124014388928 "GET /static/img/Sasha-07-04-23.jpg HTTP/1.1" 200 124030
+INFO 2024-02-03 10:00:12,727 basehttp 237248 140124014388928 "GET /about_me/ HTTP/1.1" 200 302
+INFO 2024-02-03 10:00:53,489 basehttp 237248 140124014388928 "GET /about_me/ HTTP/1.1" 200 329
+INFO 2024-02-03 10:05:36,490 basehttp 237248 140124014388928 "GET /about_me/ HTTP/1.1" 200 324
+INFO 2024-02-03 10:42:44,818 autoreload 237248 140124058079296 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:42:45,123 autoreload 239048 140204420632640 Watching for file changes with StatReloader
+INFO 2024-02-03 10:42:50,364 autoreload 239048 140204420632640 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:42:50,626 autoreload 239071 140108812075072 Watching for file changes with StatReloader
+INFO 2024-02-03 10:42:54,727 autoreload 239071 140108812075072 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:42:54,986 autoreload 239100 140381229817920 Watching for file changes with StatReloader
+INFO 2024-02-03 10:43:08,231 autoreload 239100 140381229817920 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:43:08,514 autoreload 239162 139827967037504 Watching for file changes with StatReloader
+INFO 2024-02-03 10:43:09,592 autoreload 239162 139827967037504 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:43:09,887 autoreload 239178 140260057727040 Watching for file changes with StatReloader
+INFO 2024-02-03 10:43:12,978 autoreload 239178 140260057727040 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:43:13,289 autoreload 239189 139922354307136 Watching for file changes with StatReloader
+INFO 2024-02-03 10:43:20,436 autoreload 239189 139922354307136 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:43:20,717 autoreload 239239 140136309030976 Watching for file changes with StatReloader
+INFO 2024-02-03 10:43:22,902 autoreload 239239 140136309030976 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:43:23,212 autoreload 239243 140370900013120 Watching for file changes with StatReloader
+INFO 2024-02-03 10:43:39,466 autoreload 239243 140370900013120 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:43:39,757 autoreload 239273 140088333172800 Watching for file changes with StatReloader
+INFO 2024-02-03 10:43:42,865 autoreload 239273 140088333172800 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:43:43,145 autoreload 239295 140494176170048 Watching for file changes with StatReloader
+INFO 2024-02-03 10:43:46,357 autoreload 239295 140494176170048 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:43:46,627 autoreload 239314 140289496485952 Watching for file changes with StatReloader
+INFO 2024-02-03 10:43:52,817 autoreload 239314 140289496485952 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:43:53,115 autoreload 239349 140013822533696 Watching for file changes with StatReloader
+INFO 2024-02-03 10:44:29,838 autoreload 239349 140013822533696 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:44:30,098 autoreload 239405 140026020470848 Watching for file changes with StatReloader
+INFO 2024-02-03 10:44:33,227 autoreload 239405 140026020470848 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:44:33,563 autoreload 239427 140220453437504 Watching for file changes with StatReloader
+INFO 2024-02-03 10:44:50,881 autoreload 239427 140220453437504 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-03 10:44:51,150 autoreload 239459 139954041397312 Watching for file changes with StatReloader
+INFO 2024-02-03 10:45:06,412 autoreload 239459 139954041397312 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-03 10:45:06,705 autoreload 239507 139965450879040 Watching for file changes with StatReloader
+INFO 2024-02-03 10:45:53,897 basehttp 239507 139965333763776 "GET / HTTP/1.1" 200 223
+INFO 2024-02-03 10:46:06,502 basehttp 239507 139965333763776 "GET /about_me/ HTTP/1.1" 200 324
+INFO 2024-02-03 10:46:40,028 autoreload 239507 139965450879040 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-03 10:46:40,309 autoreload 239683 140639104774208 Watching for file changes with StatReloader
+INFO 2024-02-03 10:46:59,765 autoreload 239683 140639104774208 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/urls.py changed, reloading.
+INFO 2024-02-03 10:47:00,048 autoreload 239744 140048469094464 Watching for file changes with StatReloader
+INFO 2024-02-03 10:51:41,078 autoreload 239744 140048469094464 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:51:41,343 autoreload 239883 140582510686272 Watching for file changes with StatReloader
+INFO 2024-02-03 10:51:45,545 autoreload 239883 140582510686272 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:51:45,881 autoreload 239906 139948145668160 Watching for file changes with StatReloader
+INFO 2024-02-03 10:51:47,053 autoreload 239906 139948145668160 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:51:47,317 autoreload 239920 140432119029824 Watching for file changes with StatReloader
+INFO 2024-02-03 10:51:50,392 autoreload 239920 140432119029824 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:51:50,669 autoreload 239930 139946687914048 Watching for file changes with StatReloader
+INFO 2024-02-03 10:51:51,850 autoreload 239930 139946687914048 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:51:52,137 autoreload 239939 139880761913408 Watching for file changes with StatReloader
+INFO 2024-02-03 10:51:57,355 autoreload 239939 139880761913408 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:51:57,687 autoreload 239973 139956006453312 Watching for file changes with StatReloader
+INFO 2024-02-03 10:52:07,967 autoreload 239973 139956006453312 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:52:08,236 autoreload 240020 139721972359232 Watching for file changes with StatReloader
+INFO 2024-02-03 10:52:18,537 autoreload 240020 139721972359232 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:52:18,820 autoreload 240065 139751996260416 Watching for file changes with StatReloader
+INFO 2024-02-03 10:52:19,996 autoreload 240065 139751996260416 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:52:20,254 autoreload 240079 139683937325120 Watching for file changes with StatReloader
+INFO 2024-02-03 10:52:33,620 autoreload 240079 139683937325120 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:52:33,894 autoreload 240112 140259479142464 Watching for file changes with StatReloader
+INFO 2024-02-03 10:52:36,084 autoreload 240112 140259479142464 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:52:36,357 autoreload 240133 140118062444608 Watching for file changes with StatReloader
+INFO 2024-02-03 10:52:38,552 autoreload 240133 140118062444608 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:52:38,905 autoreload 240138 140328221339712 Watching for file changes with StatReloader
+INFO 2024-02-03 10:52:57,589 basehttp 240138 140328177637056 "GET / HTTP/1.1" 200 223
+INFO 2024-02-03 10:53:55,001 autoreload 240138 140328221339712 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myproject/settings.py changed, reloading.
+INFO 2024-02-03 10:53:55,239 autoreload 240290 139673780191296 Watching for file changes with StatReloader
+INFO 2024-02-03 10:53:59,443 autoreload 240290 139673780191296 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myproject/settings.py changed, reloading.
+INFO 2024-02-03 10:53:59,725 autoreload 240312 139941945720896 Watching for file changes with StatReloader
+INFO 2024-02-03 10:54:03,931 autoreload 240312 139941945720896 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myproject/settings.py changed, reloading.
+INFO 2024-02-03 10:54:04,187 autoreload 240335 139904577454144 Watching for file changes with StatReloader
+INFO 2024-02-03 10:54:15,472 autoreload 240335 139904577454144 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myproject/settings.py changed, reloading.
+INFO 2024-02-03 10:54:15,765 autoreload 240364 140271702159424 Watching for file changes with StatReloader
+INFO 2024-02-03 10:54:22,944 views 240364 140271658444480 main page accessed
+INFO 2024-02-03 10:54:22,945 basehttp 240364 140271658444480 "GET / HTTP/1.1" 200 223
+INFO 2024-02-03 10:55:08,551 autoreload 240364 140271702159424 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:55:08,841 autoreload 240456 140672798953536 Watching for file changes with StatReloader
+INFO 2024-02-03 10:55:15,070 autoreload 240456 140672798953536 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 10:55:15,356 autoreload 240490 140560387420224 Watching for file changes with StatReloader
+INFO 2024-02-03 11:00:23,311 autoreload 240490 140560387420224 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:00:23,571 autoreload 240643 140099620216896 Watching for file changes with StatReloader
+INFO 2024-02-03 11:00:29,802 autoreload 240643 140099620216896 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:00:30,087 autoreload 240678 140500759683136 Watching for file changes with StatReloader
+INFO 2024-02-03 11:00:34,161 autoreload 240678 140500759683136 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:00:34,429 autoreload 240692 140137645375552 Watching for file changes with StatReloader
+INFO 2024-02-03 11:00:37,504 autoreload 240692 140137645375552 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:00:37,773 autoreload 240711 140289674985536 Watching for file changes with StatReloader
+INFO 2024-02-03 11:00:38,846 autoreload 240711 140289674985536 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:00:39,126 autoreload 240715 140278907691072 Watching for file changes with StatReloader
+INFO 2024-02-03 11:00:44,232 autoreload 240715 140278907691072 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:00:44,505 autoreload 240738 140041257074752 Watching for file changes with StatReloader
+INFO 2024-02-03 11:00:51,637 autoreload 240738 140041257074752 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:00:51,903 autoreload 240786 140532160135232 Watching for file changes with StatReloader
+INFO 2024-02-03 11:00:57,023 autoreload 240786 140532160135232 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:00:57,309 autoreload 240813 139625954000960 Watching for file changes with StatReloader
+INFO 2024-02-03 11:00:58,359 autoreload 240813 139625954000960 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:00:58,611 autoreload 240816 139951335886912 Watching for file changes with StatReloader
+INFO 2024-02-03 11:00:59,670 autoreload 240816 139951335886912 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:00:59,941 autoreload 240830 139819347746880 Watching for file changes with StatReloader
+INFO 2024-02-03 11:01:06,054 autoreload 240830 139819347746880 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:01:06,340 autoreload 240869 140349558263872 Watching for file changes with StatReloader
+INFO 2024-02-03 11:01:12,463 autoreload 240869 140349558263872 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:01:12,729 autoreload 240897 140617521147968 Watching for file changes with StatReloader
+INFO 2024-02-03 11:01:14,810 autoreload 240897 140617521147968 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:01:15,056 autoreload 240912 140037471522880 Watching for file changes with StatReloader
+INFO 2024-02-03 11:01:17,242 autoreload 240912 140037471522880 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:01:17,505 autoreload 240923 139835623002176 Watching for file changes with StatReloader
+INFO 2024-02-03 11:01:21,593 autoreload 240923 139835623002176 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:01:21,854 autoreload 240951 139913586008128 Watching for file changes with StatReloader
+INFO 2024-02-03 11:01:27,094 autoreload 240951 139913586008128 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:01:27,374 autoreload 240972 139777979351104 Watching for file changes with StatReloader
+INFO 2024-02-03 11:01:32,600 autoreload 240972 139777979351104 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:01:32,908 autoreload 241000 140487851429952 Watching for file changes with StatReloader
+INFO 2024-02-03 11:01:35,992 autoreload 241000 140487851429952 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:01:36,259 autoreload 241034 140443534553152 Watching for file changes with StatReloader
+INFO 2024-02-03 11:01:40,467 autoreload 241034 140443534553152 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:01:40,738 autoreload 241056 140505327681600 Watching for file changes with StatReloader
+INFO 2024-02-03 11:01:46,941 autoreload 241056 140505327681600 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:01:47,192 autoreload 241084 140260671168576 Watching for file changes with StatReloader
+INFO 2024-02-03 11:01:50,286 autoreload 241084 140260671168576 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:01:50,553 autoreload 241099 140603163377728 Watching for file changes with StatReloader
+INFO 2024-02-03 11:01:51,729 autoreload 241099 140603163377728 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:01:51,997 autoreload 241108 139657468850240 Watching for file changes with StatReloader
+INFO 2024-02-03 11:02:02,291 autoreload 241108 139657468850240 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:02:02,577 autoreload 241138 140124402872384 Watching for file changes with StatReloader
+INFO 2024-02-03 11:02:09,812 autoreload 241138 140124402872384 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:02:10,079 autoreload 241186 140658134716480 Watching for file changes with StatReloader
+INFO 2024-02-03 11:02:12,282 autoreload 241186 140658134716480 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:02:12,542 autoreload 241190 140568136925248 Watching for file changes with StatReloader
+INFO 2024-02-03 11:02:26,915 autoreload 241190 140568136925248 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:02:27,184 autoreload 241236 140628752945216 Watching for file changes with StatReloader
+INFO 2024-02-03 11:02:28,358 autoreload 241236 140628752945216 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:02:28,609 autoreload 241250 140671094915136 Watching for file changes with StatReloader
+INFO 2024-02-03 11:02:30,760 autoreload 241250 140671094915136 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:02:31,028 autoreload 241259 140535871262784 Watching for file changes with StatReloader
+INFO 2024-02-03 11:02:41,340 autoreload 241259 140535871262784 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:02:41,599 autoreload 241289 139717465903168 Watching for file changes with StatReloader
+INFO 2024-02-03 11:02:46,829 autoreload 241289 139717465903168 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:02:47,096 autoreload 241315 140394652074048 Watching for file changes with StatReloader
+INFO 2024-02-03 11:03:05,522 autoreload 241315 140394652074048 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:03:05,789 autoreload 241367 139624905826368 Watching for file changes with StatReloader
+INFO 2024-02-03 11:03:10,895 autoreload 241367 139624905826368 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:03:11,159 autoreload 241393 139968607055936 Watching for file changes with StatReloader
+INFO 2024-02-03 11:03:19,456 autoreload 241393 139968607055936 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:03:19,737 autoreload 241453 139790051131456 Watching for file changes with StatReloader
+INFO 2024-02-03 11:03:22,935 autoreload 241453 139790051131456 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:03:23,213 autoreload 241474 140200955818048 Watching for file changes with StatReloader
+INFO 2024-02-03 11:03:32,495 autoreload 241474 140200955818048 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:03:32,765 autoreload 241502 140254729490496 Watching for file changes with StatReloader
+INFO 2024-02-03 11:03:47,134 autoreload 241502 140254729490496 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:03:47,421 autoreload 241555 140186835234880 Watching for file changes with StatReloader
+INFO 2024-02-03 11:03:48,628 autoreload 241555 140186835234880 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:03:48,905 autoreload 241569 140349309214784 Watching for file changes with StatReloader
+INFO 2024-02-03 11:03:53,017 autoreload 241569 140349309214784 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:03:53,370 autoreload 241585 140454870773824 Watching for file changes with StatReloader
+INFO 2024-02-03 11:03:57,455 autoreload 241585 140454870773824 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:03:57,768 autoreload 241607 140434378100800 Watching for file changes with StatReloader
+INFO 2024-02-03 11:03:59,888 autoreload 241607 140434378100800 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:04:00,340 autoreload 241633 140452509737024 Watching for file changes with StatReloader
+INFO 2024-02-03 11:04:05,452 autoreload 241633 140452509737024 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:04:05,776 autoreload 241656 140672816320576 Watching for file changes with StatReloader
+INFO 2024-02-03 11:04:10,923 autoreload 241656 140672816320576 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:04:11,232 autoreload 241686 139925917958208 Watching for file changes with StatReloader
+INFO 2024-02-03 11:04:16,352 autoreload 241686 139925917958208 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:04:16,738 autoreload 241707 140016832786496 Watching for file changes with StatReloader
+INFO 2024-02-03 11:04:43,322 autoreload 241707 140016832786496 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:04:43,600 autoreload 241742 140556667605056 Watching for file changes with StatReloader
+INFO 2024-02-03 11:04:48,708 autoreload 241742 140556667605056 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:04:48,980 autoreload 241766 140018181840960 Watching for file changes with StatReloader
+INFO 2024-02-03 11:05:10,460 autoreload 241766 140018181840960 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:05:10,782 autoreload 241822 140549285466176 Watching for file changes with StatReloader
+INFO 2024-02-03 11:05:15,007 autoreload 241822 140549285466176 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:05:15,272 autoreload 241845 140522116177984 Watching for file changes with StatReloader
+INFO 2024-02-03 11:05:45,844 autoreload 241845 140522116177984 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:05:46,115 autoreload 241892 140573955964992 Watching for file changes with StatReloader
+INFO 2024-02-03 11:05:52,291 views 241892 140573912340160 Myapp index page accessed
+ERROR 2024-02-03 11:05:52,334 log 241892 140573912340160 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/sasha/Documents/Developing/Django/Seminar01New/venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sasha/Documents/Developing/Django/Seminar01New/venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "/home/sasha/Documents/Developing/Django/Seminar01New/venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp.views.wrapper didn't return an HttpResponse object. It returned None instead.
+ERROR 2024-02-03 11:05:52,335 basehttp 241892 140573912340160 "GET / HTTP/1.1" 500 71706
+INFO 2024-02-03 11:06:33,876 autoreload 241892 140573955964992 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:06:34,140 autoreload 241971 140697470861376 Watching for file changes with StatReloader
+INFO 2024-02-03 11:06:39,346 autoreload 241971 140697470861376 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:06:39,629 autoreload 241993 140539572232256 Watching for file changes with StatReloader
+INFO 2024-02-03 11:06:43,858 autoreload 241993 140539572232256 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:06:44,153 autoreload 242020 139789565030464 Watching for file changes with StatReloader
+INFO 2024-02-03 11:06:50,564 views 242020 139789521393344 Myapp index page accessed
+ERROR 2024-02-03 11:06:50,614 log 242020 139789521393344 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/sasha/Documents/Developing/Django/Seminar01New/venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sasha/Documents/Developing/Django/Seminar01New/venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "/home/sasha/Documents/Developing/Django/Seminar01New/venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp.views.wrapper didn't return an HttpResponse object. It returned None instead.
+ERROR 2024-02-03 11:06:50,615 basehttp 242020 139789521393344 "GET / HTTP/1.1" 500 71706
+INFO 2024-02-03 11:07:13,681 autoreload 242020 139789565030464 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:07:13,975 autoreload 242099 140524266889280 Watching for file changes with StatReloader
+INFO 2024-02-03 11:07:17,188 autoreload 242099 140524266889280 /home/sasha/Documents/Developing/Django/Seminar01New/myproject/myapp/views.py changed, reloading.
+INFO 2024-02-03 11:07:17,447 autoreload 242120 139864490192960 Watching for file changes with StatReloader
+INFO 2024-02-03 11:07:21,405 views 242120 139864446547648 Myapp index page accessed
+INFO 2024-02-03 11:07:21,407 basehttp 242120 139864446547648 "GET / HTTP/1.1" 200 223
+INFO 2024-02-03 11:07:53,613 views 242120 139864446547648 Myapp about_me page accessed
+INFO 2024-02-03 11:07:53,614 basehttp 242120 139864446547648 "GET /about_me/ HTTP/1.1" 200 324
