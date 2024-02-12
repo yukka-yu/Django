@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %} {{article.title}}{% endblock %}
+
+{% block content %}
+    <h1>{{article.title}}</h1>
+    <h3>{{article.content}}</h3>
+    {% for comment in comments %}
+        <p>{{comment.text}}</p>
+        {% if comment.pub_date != comment.change_date %}
+            <p><i>comment was changed</i></p>
+        {% endif %}  
+    {% endfor %}
+{% endblock %}
