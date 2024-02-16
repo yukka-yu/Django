@@ -1,6 +1,7 @@
 from datetime import date
 import datetime
 from django.shortcuts import render, get_object_or_404
+from .forms import ProductForm
 from .models import ClientModel, OrderModel, ProductModel
 
 def client_orders_content(request, client_id):
@@ -32,7 +33,17 @@ def client_orders_for_period(request, client_id, period):
     context = {'client':client, 'period':period, 'product_list': products_for_period}
     return render(request, 'Orderapp/client_orders_for_period.html', context)
 
-    
+def product_form(request):
+    if request.method == 'POST':
+        form = ProductForm(request.POST, request.FILES)
+        if form.is_valid():
+            saved_form = form.save()
+            return render(request, 'Orderapp/product_form.html', {'form': form, 'saved_form': saved_form})
+        else:
+            form = ProductForm()
+    else:
+            form = ProductForm()
+    return render(request, 'Orderapp/product_form.html', {'form': form})
 
 
         

@@ -4,11 +4,23 @@
 
 {% block content %}
     <h1>{{article.title}}</h1>
-    <h3>{{article.content}}</h3>
+    <p>{{article.content}}</p>
+
+    
+    <h2>Add a new comment</h2>
+    <form action="." method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <p><input type="submit" value="Add comment"></p>
+    </form>
+    
+
     {% for comment in comments %}
-        <p>{{comment.text}}</p>
+        <p>Author {{comment.author_id}} wrote {{comment.text}}</p>
         {% if comment.pub_date != comment.change_date %}
             <p><i>comment was changed</i></p>
         {% endif %}  
     {% endfor %}
+
+    
 {% endblock %}
