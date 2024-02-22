@@ -31,6 +31,10 @@ ALLOWED_HOSTS = []
 
 # Application definition
 
+INTERNAL_IPS = [
+    '127.0.0.1',
+    ]
+
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -40,10 +44,12 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'my1app',
     'Authorapp',
-    'Orderapp'
+    'Orderapp',
+    #'debug_toolbar',
 ]
 
 MIDDLEWARE = [
+    #'debug_toolbar.middleware.DebugToolbarMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -73,8 +79,8 @@ TEMPLATES = [
     },
 ]
 
+MEDIA_ROOT = f'{BASE_DIR}/media'
 MEDIA_URL = '/media/'
-MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 
 WSGI_APPLICATION = 'project.wsgi.application'
 
@@ -124,7 +130,8 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.0/howto/static-files/
 
-STATIC_URL = 'static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
+STATIC_URL = '/static/'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field

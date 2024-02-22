@@ -33,6 +33,10 @@ def client_orders_for_period(request, client_id, period):
     context = {'client':client, 'period':period, 'product_list': products_for_period}
     return render(request, 'Orderapp/client_orders_for_period.html', context)
 
+def show_product(request, product_id):
+    product = get_object_or_404(ProductModel, pk=product_id)
+    return render(request, 'Orderapp/product.html', {'product': product})
+
 def product_form(request):
     if request.method == 'POST':
         form = ProductForm(request.POST, request.FILES)
